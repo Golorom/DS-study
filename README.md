@@ -4,3 +4,7 @@
 - I haven't upgraded or modified older of them to match the new skills I've gained, yet.
 - If such changes are made, then the old and new versions of the project solution will be available.
 - You can contact me through the Telegram: t.me/goromaju
+
+- to do: translate projects to English
+
+- current earning focus: functions, classes, pipelines
