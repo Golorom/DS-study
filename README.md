@@ -8,4 +8,4 @@
 
 - to do: translate projects to English
 
-- current learning focus: functions, classes, pipelines, pep8
+- current learning focus: functions, classes, pipelines, pickle, pep8
