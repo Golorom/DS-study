@@ -22,5 +22,4 @@ Student's t-test;
 - [project_12](project_12/) - Machine Learning for Texts: natural language processing, NLP;
 - [project_13](project_13/) - Basics of SQL: SQL queries, PostgreSQL;
 - [project_14](project_14/) - Computer Vision, neural network training practice: image processing, neural networks;
-
 - [project_final](project_final/) - graduation project.
